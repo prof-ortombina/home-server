@@ -15,7 +15,9 @@
 <h2>Powered by prof. Ivan Ortombina PHP test</h2>
 <p>If you see this page, the nginx web server is successfully installed and
 working. Further configuration is required.
-<?php echo "TEST 123"; ?>
+<?php echo "TEST 123"; 
+    echo " - ATTENZIONE!! Deploy avvenuto con successo";
+?>
 </p>
 
 
